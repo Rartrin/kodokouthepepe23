@@ -14,6 +14,7 @@ namespace Promethium
         public int manaBucklerLeft = 0, time = 0;
         public float statNecro = 0;
         public bool necroEq = false;
+		public byte specialistID=0;
 
         public override void SetControls()
         {
